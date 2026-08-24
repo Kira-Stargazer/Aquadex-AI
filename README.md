@@ -57,10 +57,10 @@ Streamlit Dashboard
 ---
 
 
-## AquaDex AI
+# AquaDex AI
 
 An AI-powered application built with Streamlit.
 
-## 🌐 Try the App
+# 🌐 Try the App
 
-👉 [**Launch AquaDex AI**](https://aquadex-ai-nasuxwargfbyupsphzjsq4.streamlit.app)
+👉 [Launch AquaDex AI](https://aquadex-ai-nasuxwargfbyupsphzjsq4.streamlit.app)
