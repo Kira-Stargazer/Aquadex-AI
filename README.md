@@ -62,5 +62,5 @@ An AI-powered application built with Streamlit.
 
 # 🌐 Try the App
 
-[**AquaDex AI – Try the Live App**](https://aquadex-ai-nasuxwargfbyupsphzjsq4.streamlit.app/)
+[🚀 Try AquaDex AI Live](https://aquadex-ai-nasuxwargfbyupsphzjsq4.streamlit.app/)
 
