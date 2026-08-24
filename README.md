@@ -33,9 +33,19 @@ Aquadex AI aims to assist marine researchers by automatically identifying candid
 
 ---
 
+# AquaDex AI
+
+An AI-powered application built with Streamlit.
+
+# 🌐 Try the App
+
+[![Open App](https://img.shields.io/badge/🚀%20Open%20AquaDex%20AI-Live%20App-blue)](https://aquadex-ai-nasuxwargfbyupsphzjsq4.streamlit.app/)
+
+---
+
 # 🔄 System Workflow
 
-
+```text
 Side-Scan Sonar Image
         ↓
 Image Input
@@ -54,11 +64,4 @@ JSON + CSV Reports
         ↓
 Streamlit Dashboard
 
-# AquaDex AI
-
-An AI-powered application built with Streamlit.
-
-# 🌐 Try the App
-
-[![Open App](https://img.shields.io/badge/🚀%20Open%20AquaDex%20AI-Live%20App-blue)](https://aquadex-ai-nasuxwargfbyupsphzjsq4.streamlit.app/)
 
