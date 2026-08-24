@@ -35,7 +35,7 @@ Aquadex AI aims to assist marine researchers by automatically identifying candid
 
 # 🔄 System Workflow
 
-```text
+
 Side-Scan Sonar Image
         ↓
 Image Input
@@ -53,8 +53,6 @@ Annotated Image
 JSON + CSV Reports
         ↓
 Streamlit Dashboard
-
----
 
 # AquaDex AI
 
